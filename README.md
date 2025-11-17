@@ -1,3 +1,13 @@
+---
+title: "Aplikasi Manajemen Buku"
+emoji: "📚"
+colorFrom: "blue"
+colorTo: "green"
+sdk: "docker"
+sdk_version: "0.0.1"
+app_file: "Dockerfile"
+pinned: false
+---
 # Aplikasi Manajemen Buku (PHP OOP + MVC + Exception Handling)
 
 Aplikasi ini merupakan implementasi sederhana konsep **Pemrograman Berorientasi Objek (OOP)** menggunakan pola arsitektur **Model-View-Controller (MVC)**.  
