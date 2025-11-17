@@ -11,3 +11,6 @@
 [2025-11-17 04:02:54] SUCCESS: Buku 'fwfw' oleh 'wfwfa' berhasil ditambahkan.
 [2025-11-17 04:02:54] SUCCESS: Buku 'fwfw' oleh 'wfwfa' berhasil ditambahkan.
 [2025-11-17 04:04:12] SUCCESS: Buku 'wewewewew' oleh 'awfawfawfawfawfawfaw' berhasil ditambahkan.
+[2025-11-17 05:59:56] SUCCESS: Buku 'Buku' oleh 'Frans' berhasil ditambahkan.
+[2025-11-17 06:02:40] ERROR: Judul buku tidak boleh kosong!
+[2025-11-17 06:03:55] ERROR: Nama pengarang tidak boleh kosong!
