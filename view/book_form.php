@@ -7,7 +7,7 @@
 <body>
     <h2>Tambah Buku Baru</h2>
 
-    <form action="../controller/BookController.php" method="POST">
+    <form action="../index.php" method="POST">
         <label>Judul Buku:</label><br>
         <input type="text" name="title"><br><br>
 

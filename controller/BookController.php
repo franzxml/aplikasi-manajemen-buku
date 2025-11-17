@@ -39,3 +39,7 @@ class BookController
         file_put_contents($logFile, "[" . date("Y-m-d H:i:s") . "] " . $message . PHP_EOL, FILE_APPEND);
     }
 }
+
+// Jalankan controller otomatis
+$controller = new BookController();
+$controller->addBook();
