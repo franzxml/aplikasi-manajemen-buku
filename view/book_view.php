@@ -17,7 +17,6 @@
     </p>
 
     <br>
-    <a href="book_form.php">Tambah Buku Lagi</a>
-
+    <a href="view/book_form.php">Tambah Buku Lagi</a>
 </body>
 </html>
